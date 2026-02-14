@@ -1,9 +1,8 @@
 {
-  "project": "Cephi",
-  "totalNodes": 2,
-  "testTokensStaked": 500,
-  "networksSupported": 1,
-  "totalVolumeUSD": 63.4,
-  "currency": "USD",
-  "lastUpdated": "2026-02-14"
+  "metrics": [
+    "Total Nodes\n2",
+    "Test Tokens Staked\n500+",
+    "Networks Supported\n1",
+    "Total Volume\n$63.4"
+  ]
 }
