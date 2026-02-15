@@ -1,0 +1,5 @@
+[
+  { "country": "IN", "lat": 20.5937, "lon": 78.9629, "txCount": 120 },
+  { "country": "US", "lat": 37.0902, "lon": -95.7129, "txCount": 340 },
+  { "country": "BR", "lat": -14.2350, "lon": -51.9253, "txCount": 50 }
+]
